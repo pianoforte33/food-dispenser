@@ -11,6 +11,7 @@ The components used in this project are:
 - Step-down converter (12V to 5V)
 - 12V power supply
 - ESP32 dev module
+- 100uf capacitor
 
 ## Printing the Files
 
