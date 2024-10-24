@@ -14,6 +14,7 @@ The components used in this project are:
 - 12V power supply
 - ESP32 dev module
 - 100uf capacitor
+- M3 30mm screw and nuts
 
 ## Printing the Files
 
