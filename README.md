@@ -1,6 +1,8 @@
 # Food Dispenser
 A food dispenser made with an ESP32.
 
+![dispenser](https://github.com/user-attachments/assets/337e02df-3583-469e-bad7-f1e1f794925d)
+
 ## How It Works
 The food dispenser retrieves the date and time from the internet. You can then connect to the IP address of the ESP32 to view the food level and set the time when food will be dispensed.
 
