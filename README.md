@@ -17,5 +17,7 @@ The components used in this project are:
 - M3 30mm screw and nuts
 
 ## Printing the Files
-
 You can find the file to print by following this link: https://www.printables.com/model/1045926-food-dispenser
+
+## How to build it
+You can learn how to build it here: https://insecure.ninja/posts/food-dispenser/ 
